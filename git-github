@@ -1,0 +1,5 @@
+git log --oneline
+
+git commit index.html -m "Alguma coisa" 
+
+git restore --source a23sw33 . ou o nome do arquivo
